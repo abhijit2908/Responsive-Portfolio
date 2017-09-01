@@ -549,7 +549,7 @@ nav{
 .imagetxt{ 
 	position: absolute;
 	top:-10px;
-	left:-250px;
+	left:-255px;
 	padding: 10px 206px 10px 206px;
 	background-color:#4aaaa5;
 	color: #ffffff;
@@ -569,13 +569,13 @@ nav{
 }	
 
 	aside{
-		max-width:85.3%;
+		max-width: 85%;
 		margin-top: 20px;
 		background-color: #ffffff;
 		border: 1px solid #cccccc;
 		float: left;
-		padding: 25px;
-		margin-bottom: 20px;
+		padding: 20px;
+		margin-bottom: 30px;
 		margin-left: 20px;
 
 	}
